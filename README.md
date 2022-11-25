@@ -16,7 +16,7 @@ The notes for each topic are listed below their corresponding borders for your c
 
 ## Credits
 
-The bootcamp for teaching me the skills required for this project
+The bootcamp for teaching me the skills required for this project, 
 ExxtremeBattler
 
 ## License
